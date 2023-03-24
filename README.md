@@ -1,6 +1,6 @@
 # CaféApi Library Test
 
-[![Maintainer](http://img.shields.io/badge/maintainer-@joel-correia-blue.svg?style=flat-square)](https://twitter.com/joel-correia)
+[![Maintainer](http://img.shields.io/badge/maintainer-joel-correia-blue.svg?style=flat-square)](https://twitter.com/@JoelCorreiaB)
 [![Source Code](http://img.shields.io/badge/source-joel-correia/cafeapi-blue.svg?style=flat-square)](https://github.com/joel-correia/cafeapi)
 [![PHP from Packagist](https://img.shields.io/packagist/php-v/joel-correia/cafeapi.svg?style=flat-square)](https://packagist.org/packages/joel-correia/cafeapi)
 [![Latest Version](https://img.shields.io/github/release/joel-correia/cafeapi.svg?style=flat-square)](https://github.com/joel-correia/cafeapi/releases)
