@@ -1,0 +1,31 @@
+{
+  "name": "joel-correia/cafeapi",
+  "description": "Biblioteca API para integração com o webservice do SaaS FSPHP",
+  "keywords": [
+    "FSPHP",
+    "UpInside",
+    "Joel Correia",
+    "SaaS",
+    "PHP",
+    "Full Stack"
+  ],
+  "homepage": "https://www.upinside.com.br",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Joel Correia",
+      "email": "joel.correaiagencia@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^7.4",
+    "ext-json": "*",
+    "ext-curl": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "JoelCorreia\\CafeApi\\": "src"
+    }
+  }
+}
